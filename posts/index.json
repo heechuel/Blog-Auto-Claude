@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "claude-code-blog-automation",
+    "title": "Claude Code 서브에이전트로 블로그 자동화 파이프라인 만들기: 리서치부터 발행까지",
+    "tags": [
+      "Claude Code",
+      "서브에이전트",
+      "AI 자동화",
+      "멀티에이전트 파이프라인",
+      "콘텐츠 자동화",
+      "LLM 오케스트레이션"
+    ],
+    "date": "2026-07-20",
+    "path": "posts/claude-code-blog-automation.md",
+    "url": "http://localhost:3000/blog/claude-code-blog-automation"
+  }
+]
