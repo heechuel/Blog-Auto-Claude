@@ -1,0 +1,15 @@
+{
+  "target": "local",
+  "local": {
+    "postsDir": "posts",
+    "baseUrl": "http://localhost:3000/blog"
+  },
+  "notion": {
+    "tokenEnvVar": "NOTION_TOKEN",
+    "databaseIdEnvVar": "NOTION_DATABASE_ID",
+    "titleProperty": "제목",
+    "tagsProperty": "태그",
+    "statusProperty": "상태",
+    "publishedStatusValue": "발행됨"
+  }
+}
