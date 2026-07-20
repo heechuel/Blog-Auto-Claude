@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+
+# runtime pipeline state — must never be committed with status "in_progress",
+# or the Stop hook will block the next session that pulls this branch
+.claude/state/*.json
+!.claude/state/.gitkeep
+
+.claude/settings.local.json
